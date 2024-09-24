@@ -1,4 +1,4 @@
-<img src="./.images/EF850BA7-3E51-4C63-8923-4466F393B21A.webp" alt="Injexius" width="100%">
+<img src=".images/EF850BA7-3E51-4C63-8923-4466F393B21A.webp" alt="Injexius" width="100%">
 
 # Injexius
 
